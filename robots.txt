@@ -16,4 +16,4 @@ User-agent: Applebot-Extended
 Allow: /
 User-agent: CCBot
 Allow: /
-Sitemap: https://jeeftang.github.io/energy-calc-platform/sitemap.xml
+Sitemap:https://jeeftang.github.io/sitemap.xml
